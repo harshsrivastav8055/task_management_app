@@ -155,24 +155,6 @@ POST /api/tasks - Create a new task
 PUT /api/tasks/{task_id} - Update a task
 DELETE /api/tasks/{task_id} - Delete a task
 
-Deployment
-Backend
-The backend can be deployed to any platform that supports Docker containers or Python applications, such as:
-
-AWS (EC2, ECS, or Lambda)
-Google Cloud Run
-Heroku
-Railway
-
-Frontend
-The frontend can be deployed to:
-
-Vercel
-Netlify
-GitHub Pages
-AWS Amplify
-
-Contributing
 
 Fork the repository
 Create a feature branch (git checkout -b feature/amazing-feature)
